@@ -11,10 +11,14 @@
             "id": "935935815c3ba822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "claude-memories/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "claude-memories/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "claude-memories/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "claude-memories/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,11 +188,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "18c0b5b319be3e69",
+  "active": "935935815c3ba822",
   "lastOpenFiles": [
+    "claude-memories/MEMORY-INDEX.md",
+    "claude-memories/AUTOMATION-GUIDE.md",
+    "claude-memories/preferences/USER-PREFERENCES.md",
+    "claude-memories/chat-history/SESSION-TEMPLATE.md",
+    "claude-memories/chat-history/20260803_002413-Test-Memory.md",
+    "Untitled.base",
+    "claude-memories/save-memory.sh",
     "sync.sh",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
