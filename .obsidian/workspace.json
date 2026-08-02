@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdb01760138bb565",
+        "id": "eb3260fba3611cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "f05fce6156c868d9",
+            "id": "935935815c3ba822",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "18c0b5b319be3e69",
   "lastOpenFiles": [
+    "sync.sh",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas"
