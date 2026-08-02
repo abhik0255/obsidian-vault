@@ -1,0 +1,36 @@
+# Obsidian Vault
+# Git ignore rules for Obsidian
+
+# Metadata
+.node_modules/
+.tmp/
+
+# System files (optional - uncomment if needed)
+# .DS_Store
+# Thumbs.db
+
+# Backup folders (usually you don't backup backups)
+# backups/
+
+# Logs
+*.log
+
+# Large files
+*.zip
+*.mp4
+*.mov
+
+# Local-only plugins (if you have any)
+# plugins/local-*/
+
+# Editor files
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache
+cache/
+.temp/
